@@ -1,10 +1,13 @@
 name: pulsator
 description: "Pulse animation for Flutter."
-version: 1.0.0
+version: 1.0.0+2
 homepage: https://github.com/booncol/pulsator
+repository: https://github.com/booncol/pulsator
+issue_tracker: https://github.com/booncol/pulsator/issues
 
 environment:
   sdk: ">=2.19.0 <3.0.0"
+  flutter: ">=3.0.0"
 
 dependencies:
   flutter:
